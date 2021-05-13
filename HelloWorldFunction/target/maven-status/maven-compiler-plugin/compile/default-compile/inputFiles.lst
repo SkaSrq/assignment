@@ -1,0 +1,7 @@
+/home/sharique/Desktop/workD/checkAwsLambdaFunction/HelloWorldFunction/src/main/java/helloworld/Requests/Request.java
+/home/sharique/Desktop/workD/checkAwsLambdaFunction/HelloWorldFunction/src/main/java/helloworld/apis/GetTherapist.java
+/home/sharique/Desktop/workD/checkAwsLambdaFunction/HelloWorldFunction/src/main/java/helloworld/apis/PostTherapist.java
+/home/sharique/Desktop/workD/checkAwsLambdaFunction/HelloWorldFunction/src/main/java/helloworld/apis/clients/GetClient.java
+/home/sharique/Desktop/workD/checkAwsLambdaFunction/HelloWorldFunction/src/main/java/helloworld/App.java
+/home/sharique/Desktop/workD/checkAwsLambdaFunction/HelloWorldFunction/src/main/java/helloworld/entities/Client.java
+/home/sharique/Desktop/workD/checkAwsLambdaFunction/HelloWorldFunction/src/main/java/helloworld/entities/Therapist.java

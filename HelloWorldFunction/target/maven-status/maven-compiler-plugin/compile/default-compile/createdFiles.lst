@@ -1,0 +1,8 @@
+helloworld/apis/PostTherapist.class
+helloworld/apis/clients/GetClient.class
+helloworld/Requests/Request.class
+helloworld/entities/Therapist.class
+helloworld/entities/Client$ClientBuilder.class
+helloworld/entities/Client.class
+helloworld/apis/GetTherapist.class
+helloworld/App.class
